@@ -1,2 +1,3 @@
-﻿  main.cpp
+﻿  Game.cpp
+D:\C++\SFML Simple Game\SFML Simple Game\Game.cpp(134,21): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
   SFML Simple Game.vcxproj -> D:\C++\SFML Simple Game\x64\Debug\SFML Simple Game.exe
