@@ -1,3 +1,7 @@
 ﻿  Game.cpp
-D:\C++\SFML Simple Game\SFML Simple Game\Game.cpp(134,21): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\C++\SFML Simple Game\SFML Simple Game\Game.cpp(212,23): warning C4244: '+=': conversion from 'float' to 'unsigned int', possible loss of data
+D:\C++\SFML Simple Game\SFML Simple Game\Game.cpp(214,23): warning C4244: '+=': conversion from 'float' to 'unsigned int', possible loss of data
+D:\C++\SFML Simple Game\SFML Simple Game\Game.cpp(216,23): warning C4244: '+=': conversion from 'float' to 'unsigned int', possible loss of data
+D:\C++\SFML Simple Game\SFML Simple Game\Game.cpp(218,23): warning C4244: '+=': conversion from 'float' to 'unsigned int', possible loss of data
+D:\C++\SFML Simple Game\SFML Simple Game\Game.cpp(220,23): warning C4244: '+=': conversion from 'float' to 'unsigned int', possible loss of data
   SFML Simple Game.vcxproj -> D:\C++\SFML Simple Game\x64\Debug\SFML Simple Game.exe
